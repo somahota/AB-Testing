@@ -1,7 +1,8 @@
+import scipy
 from scipy import stats
 from scipy.stats import t as t_dist
 from scipy.stats import chi2
-
+import math
 from abtesting_test import *
 
 # You can comment out these lines! They are just here to help follow along to the tutorial.

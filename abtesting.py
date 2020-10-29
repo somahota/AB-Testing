@@ -179,7 +179,6 @@ def data_to_num_list(s):
     '''
   return list(map(float, s.split()))
 
-"""
 # t_test 1:
 a_t1_list = data_to_num_list(a1) 
 b_t1_list = data_to_num_list(b1)
